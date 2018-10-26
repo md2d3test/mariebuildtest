@@ -13,7 +13,7 @@
     "source": { 
       "type": "Git",
       "git": {
-        "uri": "https://github.com/md2d3test/mariebuildtest"
+        "uri": "https://github.com/md2d3test/mariebuildtest.git"
       }
     },
     "strategy": { 
